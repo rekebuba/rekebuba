@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rekebuba
+- 👋 Hi, I’m Abubeker
 - 🌱 I’m currently learning Software Enginaring 
 - 💞️ I’m looking to collaborate and work jointly with anyone especially in an intellectual endeavor.
 - 📫 How to reach me instagram,telegram and twitter with all @rekebuba
