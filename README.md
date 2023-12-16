@@ -1,5 +1,5 @@
-# alx-pre_course
-<h2 align="left">Hi 👋! My name is Abubeker Abdullahi and I’m currently Studying Software Engineering.</h2>
+# Greatings
+<h2 align="left">My name is Abubeker, a software engineer constantly seeking ways to expand my knowledge and skills.</h2>
 
 ###
 
